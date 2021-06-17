@@ -9,6 +9,7 @@ header img {
     h1 {
         text-align: center;
        color:red;
+       font-family: 'Cinzel', serif;
     }
      h2{
          text-align: center;
@@ -21,6 +22,7 @@ header img {
     margin: 5px;
     color:indigo;
     font-size: 25px;
+    font-family: 'Cinzel', serif;
     
       }
     img {
@@ -33,8 +35,37 @@ header img {
     
       footer {
           text-align: center;
+          font-family: 'Cinzel', serif;
       }
       body {
     background-size: 0mm;
     background-color:khaki;
     }
+     
+    table, th, td {
+        border: 1px solid black;
+      }
+
+      table {
+        border: 1px solid black;
+        
+      }
+      
+      table {
+        width: 25%;
+        background-color: seagreen;
+        text-shadow: snow;
+      }
+      
+      th {
+        height: 20px;
+      }
+      td {
+        text-align: center;
+        font-family: 'Ubuntu', sans-serif;
+
+      }
+      th, td {
+        border-bottom: 1px solid red;
+      }
+    
