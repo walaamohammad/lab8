@@ -39,7 +39,7 @@ header img {
       }
       body {
     background-size: 0mm;
-    background-color:khaki;
+    background-color:rgb(60, 108, 128);
     }
      
     table, th, td {
@@ -47,14 +47,16 @@ header img {
       }
 
       table {
-        border: 1px solid black;
+        border: 3px solid honeydew;
         
       }
       
       table {
         width: 25%;
-        background-color: seagreen;
+        background-color:lightcoral;
         text-shadow: snow;
+        color: lightgoldenrodyellow;
+        align-items: center;
       }
       
       th {
@@ -66,6 +68,34 @@ header img {
 
       }
       th, td {
-        border-bottom: 1px solid red;
+        border-bottom: 1px solid wheat;
       }
+.form1 {
+  background-color:pink;
+  border: purple;
+  display: flex;
+}
+
+
+    .table1 {
+      display: flex;
+      justify-self:flex-start;
+      align-items: center;
+      width: 50%;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      color :black;
+      margin: 20px;
+    }
+    .table2 {
+      display: flex;
+   justify-content:flex-end;
+      align-items: center;
+      width: 100%;
+      color:black;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
     
+    .footer {
+      margin: 50px;
+      color:bisque;
+    }
