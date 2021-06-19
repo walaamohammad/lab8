@@ -9,7 +9,7 @@ header img {
     h1 {
         text-align: center;
        color:red;
-       font-family: 'Cinzel', serif;
+       font-family: 'Viaoda Libre', cursive;
     }
      h2{
          text-align: center;
@@ -22,8 +22,7 @@ header img {
     margin: 5px;
     color:indigo;
     font-size: 25px;
-    font-family: 'Cinzel', serif;
-    
+    font-family: 'Dancing Script', cursive;    
       }
     img {
         width: 200px;
@@ -35,7 +34,8 @@ header img {
     
       footer {
           text-align: center;
-          font-family: 'Cinzel', serif;
+          font-family: 'Abril Fatface', cursive;
+          font-size: x-large;
       }
       body {
     background-size: 0mm;
