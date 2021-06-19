@@ -8,19 +8,19 @@ header img {
     }
     h1 {
         text-align: center;
-       color:red;
+       color:bisque;
        font-family: 'Viaoda Libre', cursive;
     }
      h2{
          text-align: center;
-         color: blue;
+         color:whitesmoke;
      }
      p   {
          text-align: center;
     padding: 5px;
     margin-bottom:0%;
     margin: 5px;
-    color:indigo;
+    color:yellowgreen;
     font-size: 25px;
     font-family: 'Dancing Script', cursive;    
       }
